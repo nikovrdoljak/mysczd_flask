@@ -14,4 +14,4 @@ U ovoj radionici pokazali smo kako konzumirati podatke o vremenu u nekom gradu, 
 * otvorite u web pregledniku: http://127.0.0.1:5000/
 
 ## Detaljnije o Flasku
-[Uvof u Flask](https://medium.com/@nikovrdoljak/uvod-u-flask-3859458237f7)
+[Uvod u Flask](https://medium.com/@nikovrdoljak/uvod-u-flask-3859458237f7)
